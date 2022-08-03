@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is **Avnish Ranwa** and I welcome you to my GitHub.
+![alt text](Avnish.png)
 <!--
 **avnishranwa7/avnishranwa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
