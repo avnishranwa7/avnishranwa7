@@ -3,7 +3,6 @@
 # About Me
 <p style="text-align: justify; font-size: 20px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on <a link="https://www.codechef.com/users/avnishranwa">CodeChef</a> with highest rating of 3&#9733; and I have good knowledge of Data Structures and Algorithms. Participated in several hackathons and coding competitions.
 </p>
-<br>
 
 # My Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnishranwa7&layout=compact)](https://github.com/avnishranwa7/github-readme-stats)
