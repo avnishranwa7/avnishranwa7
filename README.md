@@ -1,4 +1,7 @@
 ![alt text](Avnish.png)
+
+# About Me
+<span style="font-size: 1.2em;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on CodeChef with highest rating of 3&#9733; and I have good knowledge of Data Structures and Algorithms.</span>
 <!--
 **avnishranwa7/avnishranwa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
