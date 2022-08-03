@@ -1,8 +1,8 @@
 ![alt text](Avnish.png)
 
 # About Me
-<span style="font-size: 20px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on [CodeChef](https://www.codechef.com/users/avnishranwa) with highest rating of 3&#9733; and I have good knowledge of Data Structures and Algorithms. Participated in several hackathons and coding competitions.
-</span>
+<p style="text-align: justify; font-size: 20px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on <a link="https://www.codechef.com/users/avnishranwa">CodeChef</a> with highest rating of 3&#9733; and I have good knowledge of Data Structures and Algorithms. Participated in several hackathons and coding competitions.
+</p>
 <br>
 
 # My Skills
