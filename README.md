@@ -4,7 +4,7 @@
 <p style="text-align: justify; font-size: 40px;">
 <ul>
 <li>Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django</li>
-<li>Regaular participation in competitive coding contests on <a href="https://www.codechef.com/users/avnishranwa" style="color: blue;">CodeChef</a> with highest rating of 3&#9733;</li>
+<li>Regular participation in competitive coding contests on <a href="https://www.codechef.com/users/avnishranwa" style="color: blue;">CodeChef</a> with highest rating of 3&#9733;</li>
 <li>I have good knowledge of Data Structures and Algorithms</li>
 <li>Participated in several hackathons and coding competitions</li>
 </p>
