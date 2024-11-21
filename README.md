@@ -1,4 +1,4 @@
-![alt text](Avnish.png)
+[//]: ![alt text](Avnish.png)
 
 # About Me
 <p style="text-align: justify; font-size: 40px;">
